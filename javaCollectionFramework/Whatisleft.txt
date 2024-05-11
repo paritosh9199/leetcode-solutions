@@ -1,0 +1,14 @@
+try to create a user defined data type and use that for set 
+like students{
+    int rollno;
+    String Name;
+}
+
+also try to sort students 
+done by using implementing comparable in the student class
+
+comparable can only compare one class at once
+
+hence comparator can be used to do this
+
+also lambda fucntion can also be used at the same time!
